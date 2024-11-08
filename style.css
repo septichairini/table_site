@@ -1,0 +1,36 @@
+/* Custom styling for Employee List layout */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .search-input {
+    max-width: 300px;
+  }
+  
+  .table {
+    margin-top: 15px;
+  }
+  
+  .table thead {
+    background-color: #343a40; /* Dark background for the header */
+    color: white;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 700px;
+    padding: 20px;
+  }
+  
+  .btn-primary {
+    height: 100%;
+  }
+  
